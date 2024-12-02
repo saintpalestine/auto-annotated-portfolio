@@ -73,6 +73,7 @@ sections:
           - pr-10
         justifyContent: flex-start
         borderWidth: 0
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
