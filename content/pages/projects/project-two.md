@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/retro.d5a0a58727affa92cb80fdfa78a07a26.png
+  url: /images/lifeinvader.c25acb0a33904bc4e90c656d87c651cc.png
   altText: Project image
 ---
 Retro-Sketch is a fun and interactive pixel art drawing application designed for users to create pixel-perfect art using a range of simple yet powerful tools. Inspired by retro aesthetics and pixelated designs, the app offers a nostalgic throwback to classic art styles while providing modern functionality for creativity.
