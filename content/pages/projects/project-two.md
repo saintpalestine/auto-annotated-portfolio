@@ -3,7 +3,7 @@ type: ProjectLayout
 title: LifeInvader — Social Media App
 colors: colors-a
 date: '2021-09-17'
-client: Awesome client
+client: ''
 description: >-
   Full stack social media application built with React, Node.js, Express.js,
   MongoDB, Socket.io and AWS S3.
