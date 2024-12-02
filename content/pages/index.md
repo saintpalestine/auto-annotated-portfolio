@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hello, I''m Saint.I''m a fullstack developer'
+    title: 'Hello, I''m Saint.I''m a fullstack web developer.'
     subtitle: ''
     styles:
       self:
