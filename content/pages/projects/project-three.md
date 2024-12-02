@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Chakra ChatMessaging App
 colors: colors-a
 date: '2022-03-09'
-client: 'LIVE APP > '
+client: 'LIVE APP > https://nextjs-chakra-chatapp-qnhb6dq42-bscottnz.vercel.app/'
 description: 'Instant messaging application built with Next.JS, Firebase and Chakra UI.'
 featuredImage:
   type: ImageBlock
