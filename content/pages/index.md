@@ -71,7 +71,7 @@ sections:
           - pb-10
           - pl-10
           - pr-10
-        justifyContent: center
+        justifyContent: flex-start
       title:
         textAlign: left
       subtitle:
