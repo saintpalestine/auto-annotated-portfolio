@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: 'Hello, I''m Saint.I''m a fullstack web developer.'
     subtitle: ''
     styles:
