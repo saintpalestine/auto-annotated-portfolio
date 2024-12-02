@@ -4,22 +4,17 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 47
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    backgroundSize: inset
+    title: 'Hello, I''m Saint.I''m a fullstack web developer.'
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -39,6 +34,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
@@ -47,6 +43,45 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: About me
+    text: >+
+      Fully committed to the philosophy of lifelong learning, I’m a creative
+      computer science student with a passion for problem-solving, design, and
+      web development. The unique blend of creativity, logic, and technology
+      drives my excitement for coding, especially as I explore Python,
+      JavaScript, and building dynamic applications. Constantly seeking to learn
+      and refine my skills, I’m driven by curiosity and the desire to create.
+
+
+      When I’m not immersed in code, I enjoy making music, exploring design, and
+      paying attention to the details that make every creative project unique.
+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-10
+          - pb-10
+          - pl-10
+          - pr-10
+        justifyContent: flex-start
+        borderWidth: 0
+        borderColor: border-secondary
+        borderRadius: large
+        borderStyle: dashed
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,49 +119,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+    subtitle: Projects
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
