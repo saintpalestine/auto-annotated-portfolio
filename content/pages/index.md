@@ -5,7 +5,7 @@ colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/360_F_614726940_02hHGapLAgTTO3nJjVe0hA11VWNvaGtD.jpg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 13
