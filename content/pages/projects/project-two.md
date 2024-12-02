@@ -9,7 +9,7 @@ description: >-
   MongoDB, Socket.io and AWS S3.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/lifeinvader.c25acb0a33904bc4e90c656d87c651cc.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
