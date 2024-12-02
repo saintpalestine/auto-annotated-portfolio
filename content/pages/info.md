@@ -14,6 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
+      # BIO
+
+
       <div style="text-align: left">## My name is Saint, and I’m fully committed
       to the philosophy of lifelong learning. As a creative computer science
       student, I’m passionate about problem-solving, design, web development,
