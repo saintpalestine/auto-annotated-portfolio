@@ -84,7 +84,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Marketing
       - type: Label
         label: C++
       - type: Label
