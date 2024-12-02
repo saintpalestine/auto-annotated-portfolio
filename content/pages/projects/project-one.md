@@ -4,10 +4,7 @@ title: Retro-SketchPixel Sketch App
 colors: colors-a
 date: '2024-06-20'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Create pixel art with a variety of drawing tools.
 featuredImage:
   type: ImageBlock
   url: /images/retro.d5a0a58727affa92cb80fdfa78a07a26.png
