@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Retro-SketchPixel Sketch App
 colors: colors-a
 date: '2024-06-20'
-client: ''
+client: 'LIVE APP > '
 description: ''
 featuredImage:
   type: ImageBlock
