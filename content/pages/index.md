@@ -4,7 +4,7 @@ title: Home
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/360_F_614726940_02hHGapLAgTTO3nJjVe0hA11VWNvaGtD.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
