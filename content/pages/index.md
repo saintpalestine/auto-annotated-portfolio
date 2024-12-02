@@ -67,10 +67,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
+          - pt-10
+          - pb-10
+          - pl-10
+          - pr-10
         justifyContent: center
       title:
         textAlign: left
