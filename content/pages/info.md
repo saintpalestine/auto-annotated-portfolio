@@ -28,10 +28,6 @@ sections:
       and pay attention to the details that make every creative project stand
       out. Follow my journey on Instagram: @saintchromasalvitore.**
 
-    media:
-      type: ImageBlock
-      url: /images/Untitled.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
