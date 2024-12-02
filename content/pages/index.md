@@ -46,7 +46,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: About me
     text: >+
       Fully committed to the philosophy of lifelong learning, I’m a creative
       computer science student with a passion for problem-solving, design, and
