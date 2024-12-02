@@ -75,6 +75,7 @@ sections:
         borderWidth: 0
         borderColor: border-secondary
         borderRadius: large
+        borderStyle: dashed
       title:
         textAlign: left
       subtitle:
