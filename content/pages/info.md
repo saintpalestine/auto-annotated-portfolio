@@ -13,11 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## My name is Saint, and I’m fully committed to the philosophy of lifelong
+      learning. As a creative computer science student, I’m passionate about
+      problem-solving, design, web development, and making music. The unique
+      blend of creativity, logic, and technology fuels my excitement for coding,
+      especially as I explore Python, JavaScript, and building dynamic
+      applications. Constantly striving to learn and refine my skills, I’m
+      driven by curiosity and the desire to create.
+
+
+      #### **When I’m not coding, I dive into music production, explore design,
+      and pay attention to the details that make every creative project stand
+      out. Follow my journey on Instagram: @saintchromasalvitore.**
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
