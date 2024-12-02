@@ -72,7 +72,7 @@ sections:
           - pl-10
           - pr-10
         justifyContent: flex-start
-        borderWidth: 1
+        borderWidth: 3
       title:
         textAlign: left
       subtitle:
