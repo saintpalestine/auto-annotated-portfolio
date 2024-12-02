@@ -16,27 +16,35 @@ media:
   url: /images/lifeinvader.c25acb0a33904bc4e90c656d87c651cc.png
   altText: Project image
 ---
-Retro-Sketch is a fun and interactive pixel art drawing application designed for users to create pixel-perfect art using a range of simple yet powerful tools. Inspired by retro aesthetics and pixelated designs, the app offers a nostalgic throwback to classic art styles while providing modern functionality for creativity.
+LifeInvader is a full-stack social media application designed to connect users through real-time interactions, rich media content, and intuitive user experiences. Built with modern web technologies, it offers a platform for users to share posts, interact with others, and stay connected in a dynamic, real-time environment. The app prioritizes scalability, performance, and a clean, responsive interface.
 
 **Features:**
 
-*   **Customizable Canvas:** Adjustable canvas size for pixel-perfect control.
+*   **User Authentication:** Secure user registration, login, and password recovery using JWT.
 
-*   **Drawing Tools:** Pencil, eraser, fill bucket, color picker, and shape tools.
+*   **Real-Time Chat:** Instant messaging powered by Socket.io for seamless communication.
 
-*   **Color Palette:** Wide range of customizable color palettes with the ability to save favorite colors.
+*   **Feed & Posts:** Users can create, edit, delete, and like posts, with comments in real-time.
 
-*   **Undo/Redo:** Simple undo and redo functionality for quick corrections.
+*   **File Uploads:** AWS S3 integration for uploading and storing images, videos, and other media.
 
-*   **Export Function:** Save your artwork as PNG files or share it directly with others.
+*   **Responsive Design:** Mobile-first approach for a smooth experience across all devices.
+
+*   **Notifications:** Real-time notifications for likes, comments, and new messages.
 
 **Tech Stack:**
 
-*   **Frontend:** HTML, CSS, JavaScript
+*   **Frontend:** React, Redux (for state management), Bootstrap/Material-UI for styling
 
-*   **Backend (optional):** Node.js/Express (for saving artwork or user accounts)
+*   **Backend:** Node.js, Express.js
 
-*   **Libraries/Frameworks:** Canvas API, Bootstrap for UI
+*   **Database:** MongoDB (NoSQL)
+
+*   **Real-Time:** Socket.io for chat and live updates
+
+*   **Storage:** AWS S3 for media storage
+
+**Challenges & Learning:**
 
 
 
