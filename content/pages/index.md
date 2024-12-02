@@ -44,7 +44,7 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    colors: colors-c
+    colors: colors-a
     variant: variant-a
     title: About me
     text: >+
