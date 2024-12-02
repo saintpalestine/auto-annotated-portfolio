@@ -118,13 +118,81 @@ sections:
     variant: variant-b
     title: SKILLS / EXPERIENCE
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      ### **Technical and Academic Experiences**
+
+      1.  **Programming Projects**:
+
+          *   Developed dynamic applications using Python and JavaScript.
+
+          *   Created web-based projects with HTML, CSS, and React.
+
+          *   Built simple games or automation scripts to solve everyday problems.
+
+      2.  **Coursework**:
+
+          *   Completed Harvard’s CS50x: Introduction to Computer Science (in progress with Python focus).
+
+          *   Foundations in MATH101 (Calculus), PHYS101 (Physics), and CHM101 (Chemistry).
+
+      3.  **Collaborative Projects**:
+
+          *   Collaborated with peers on coding assignments and projects.
+
+          *   Participated in group work to solve complex algorithmic problems.
+
+      4.  **Personal Coding Challenges**:
+
+          *   Created custom scripts for personal productivity or creative tasks.
+
+          *   Explored APIs for data gathering or automation.
+
+      ### **Creative and Music Experiences**
+
+      1.  **Music Production**:
+
+          *   Composed and produced original tracks across multiple genres.
+
+          *   Experimented with sound design, mixing, and mastering.
+
+          *   Integrated unique soundscapes using DAWs (e.g., FL Studio, Ableton).
+
+      2.  **Design Projects**:
+
+          *   Designed visual assets like album covers or digital graphics.
+
+          *   Developed branding concepts for personal projects.
+
+      3.  **Creative Writing and Conceptual Work**:
+
+          *   Developed storyboards or conceptual narratives for music projects.
+
+          *   Wrote lyrics or poetry to accompany musical pieces.
+
+      ### **Entrepreneurial and Practical Experiences**
+
+      1.  **Yemeksepeti Discount Management**:
+
+          *   Managed logistics for promotions and discounts on the Yemeksepeti platform.
+
+      2.  **Problem Solving in Real Life**:
+
+          *   Handled situations with quick thinking, such as the shoplifting incident.
+
+      ### **Personal Development and Learning**
+
+      1.  **Lifelong Learner**:
+
+          *   Continuously exploring new programming languages, frameworks, and creative tools.
+
+          *   Focused on improving Turkish language skills and cultural understanding.
+
+      2.  **Music Exploration**:
+
+          *   Analyzing music for detailed production elements, drawing inspiration from diverse genres.
+
+
+
     elementId: ''
     styles:
       self:
