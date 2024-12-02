@@ -74,6 +74,7 @@ sections:
         justifyContent: flex-start
         borderWidth: 0
         borderColor: border-secondary
+        borderRadius: large
       title:
         textAlign: left
       subtitle:
