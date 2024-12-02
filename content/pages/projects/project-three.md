@@ -14,7 +14,7 @@ media:
   url: /images/chatapp.d9f2104f9e2c15a0bcbba042541ca178.png
   altText: Project image
 ---
-ChatSphere is a sleek and modern instant messaging application built for seamless real-time communication. Leveraging the power of Next.js for server-side rendering, Firebase for backend services, and Chakra UI for a clean and responsive design, it delivers a fast, reliable, and visually appealing user experience. Whether on desktop or mobile, ChatSphere ensures users stay connected effortlessly.
+Chakra is a sleek and modern instant messaging application built for seamless real-time communication. Leveraging the power of Next.js for server-side rendering, Firebase for backend services, and Chakra UI for a clean and responsive design, it delivers a fast, reliable, and visually appealing user experience. Whether on desktop or mobile, ChatSphere ensures users stay connected effortlessly.
 
 **Features:**
 
@@ -37,6 +37,4 @@ ChatSphere is a sleek and modern instant messaging application built for seamles
 *   **Backend:** Firebase for real-time database, authentication, and cloud functions.
 
 *   **UI Library:** Chakra UI for responsive and customizable component styling.
-
-
 
