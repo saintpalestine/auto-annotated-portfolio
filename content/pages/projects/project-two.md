@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: lifeinvaderSocial Media App
+title: LifeInvader — Social Media App
 colors: colors-a
 date: '2021-09-17'
 client: Awesome client
