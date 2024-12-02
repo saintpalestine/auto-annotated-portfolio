@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/chatapp.d9f2104f9e2c15a0bcbba042541ca178.png
-  altText: Project thumbnail image
+  altText: Chakra ChatMessaging App
 media:
   type: ImageBlock
   url: /images/bg3.jpg
