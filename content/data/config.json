@@ -60,7 +60,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "saintvinsmokeofficial@gmail.com",
             "emailAltText": "My email",
             "address": "",
