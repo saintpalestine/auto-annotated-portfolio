@@ -33,44 +33,5 @@
                 "width": "full"
             }
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "saintvinsmokeofficial@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
-        "copyrightText": "",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
