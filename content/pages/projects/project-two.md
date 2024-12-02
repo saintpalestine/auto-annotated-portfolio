@@ -15,6 +15,7 @@ media:
   type: ImageBlock
   url: /images/lifeinvader.c25acb0a33904bc4e90c656d87c651cc.png
   altText: Project image
+  caption: 'https://lifeinvadersocial.herokuapp.com/'
 ---
 LifeInvader is a full-stack social media application designed to connect users through real-time interactions, rich media content, and intuitive user experiences. Built with modern web technologies, it offers a platform for users to share posts, interact with others, and stay connected in a dynamic, real-time environment. The app prioritizes scalability, performance, and a clean, responsive interface.
 
